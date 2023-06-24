@@ -23,23 +23,19 @@ You have the following clues:
 Answer: Who uses the Vim editor?
 
 
-
-colours : red,green,white,yellow,blue
-professions: Mathematician,hacker,analyst,Developer,Engineer
-languajes: Python,java,javascript,c#,OtherLanguage
-noSQL: Redis,Cassandra,HBase,Neo4J,MongoDB
-editor: Atom,Brackets,Notepad++,sublimeText,VIM
-
-
 Logic:
+    
+    colours : red,green,white,yellow,blue
+    professions: Mathematician,hacker,analyst,Developer,Engineer
+    languajes: Python,java,javascript,c#,OtherLanguage
+    noSQL: Redis,Cassandra,HBase,Neo4J,MongoDB
+    editor: Atom,Brackets,Notepad++,sublimeText,VIM
 
     Chromosomes consists of an arrangement of houses, with the genes colour, profession,language,NoSQL and text editor
-    Algorithm will learn the best arrangement and the best attributes for each house given the aptitude function
-    
+    Algorithm will learn the best arrangement and the best attributes for each house given the aptitude function    
     
     chromosome : [{colour:,profession:,language:,NoSQL:,textEditor:}, {colour:,....},....]  
-    5 elements (5 houses). algorithm sorts elements and attributes inside each element
-    
+    5 elements (5 houses). algorithm sorts elements and attributes inside each element    
     
     colours: 
     professions:
