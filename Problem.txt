@@ -1,6 +1,6 @@
 Problem:
 
-We have 5 houses of five different colors and in each of them lives a person of a different profession. Each
+We have five houses of five different colours and in each of them lives a person with a different profession. Each
 one programs in a different language, uses a different NoSQL database, and uses a different text editor.
 
 You have the following clues:
